@@ -1,9 +1,9 @@
-# 🎬 Netflix Landing Page Clone
+🎬 Streaming Platform UI Practice Project
 
-A pixel-perfect frontend clone of the Netflix landing page built from scratch using pure HTML and CSS.
-
+A frontend practice project inspired by modern streaming platform designs. Built from scratch using HTML and CSS for learning purposes only.
+This project is not affiliated with Netflix.
 ## ✨ Features
-- **Hero Section:** High-quality background banner with custom overlay, sign-in button, and email submission form.
+- **Hero Section:** Hero Section: Custom banner design with navigation elements and UI components.
 - **Feature Sections:** Structured grid layouts showcasing custom media sections (TV, Mobile, and Kids layout).
 - **Interactive FAQs:** Clean Accordion-style Frequently Asked Questions section.
 - **Responsive Styling:** Optimized layouts using CSS Flexbox/Grid.
